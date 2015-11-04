@@ -2,7 +2,7 @@
   "name": "document-pathname",
   "main": "index.js",
   "version": "1.0.0",
-  "description": "Simple interface to document.location.pathname that returns empty in Node",
+  "description": "Simple interface to document.location.pathname that returns / in Node",
   "license": "MIT",
   "repository": "bendrucker/document-pathname",
   "author": {

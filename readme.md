@@ -1,6 +1,6 @@
 # document-pathname [![Build Status](https://travis-ci.org/bendrucker/document-pathname.svg?branch=master)](https://travis-ci.org/bendrucker/document-pathname)
 
-> Simple interface to `document.location.pathname` that returns empty in Node
+> Simple interface to `document.location.pathname` that returns `/` in Node
 
 
 ## Install
@@ -16,7 +16,7 @@ $ npm install --save document-pathname
 var pathname = require('document-pathname')
 pathname()
 //=> '/the/path' in a browser
-//=> '' in node
+//=> '/' in node
 ```
 
 ## License
