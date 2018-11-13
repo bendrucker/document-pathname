@@ -1,4 +1,4 @@
-# document-pathname [![Build Status](https://travis-ci.org/bendrucker/document-pathname.svg?branch=master)](https://travis-ci.org/bendrucker/document-pathname)
+# document-pathname [![Build Status](https://travis-ci.org/bendrucker/document-pathname.svg?branch=master)](https://travis-ci.org/bendrucker/document-pathname) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/document-pathname.svg)](https://greenkeeper.io/)
 
 > Simple interface to `document.location.pathname` that returns `/` in Node
 
